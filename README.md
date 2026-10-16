@@ -2,6 +2,11 @@
 
 Prototype that derives a Zcash Orchard address and an Ethereum address from the same BIP-39 seed, then embeds the Ethereum address inside a Unified Address under an experimental typecode.
 
+
+![img](https://github.com/user-attachments/assets/e9c74f7a-a430-4b28-b0a8-c65081ab1feb)
+
+
+
 ## What it does
 
 - Accepts a BIP-39 mnemonic or generates a fresh 24-word mnemonic
